@@ -3,4 +3,4 @@
 
 ##
  
-This is a The Power BI Dashboard WHich Contains the Car Sales Dashboard using the gl
+This is a The Power BI Dashboard WHich Contains the Car Sales Dashboard using the global Data Sales
