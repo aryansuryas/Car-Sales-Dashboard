@@ -11,3 +11,4 @@ This is a The Power BI Dashboard WHich Contains the Car Sales Dashboard using th
 5.China
 6.Germany
 7.Italy
+using rapid manner and data
